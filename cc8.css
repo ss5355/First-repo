@@ -1,0 +1,22 @@
+body {
+    background-color: #b8cced;
+}
+.container div {
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 2px;
+}
+.linear{
+    background-image: linear-gradient(to bottom, red,white);
+}
+.radial{
+
+    background-image: radial-gradient(purple,white);
+}
+.linear1 {
+    background-image: linear-gradient(to left, purple, white, blue);
+}
+.radial1 {
+    background-image: radial-gradient(ellipse,red,green,blue);
+}

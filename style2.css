@@ -1,0 +1,9 @@
+div,span {
+    border: 1px solid black;
+}
+div {
+    background-color: yellow;
+}
+span {
+    background-color: cyan;
+}
